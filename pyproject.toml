@@ -1,0 +1,10 @@
+[project]
+name = "templates"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "docxtpl>=0.20.2",
+    "loguru>=0.7.3",
+]
